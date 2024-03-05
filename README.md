@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Bhoriya</h1>
+<h1 align="center">Hi 👋, I'm Hari Om Bhoriya</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
 <img align="right" alt="coading" width="400" src="![image](https://github.com/The-H-Server/The-H-Server/assets/147264156/8839f8b5-2970-4ad2-8e4e-8661af9ac335)">
